@@ -1,0 +1,10 @@
+# Standard Constraints
+alpha: 1000
+beta: 1000
+gamma: 1000
+
+# Turtlebot Constraints
+delta: 1000
+epsilon: 1000
+zeta: 1000
+eta: 1000
